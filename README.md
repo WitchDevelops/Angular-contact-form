@@ -13,7 +13,7 @@ It's a contact form build with Angular. I coded it as a learning project.
 [https://witchdevelops.github.io/Angular-contact-form/](https://witchdevelops.github.io/Angular-contact-form/)
 
 ## Screenshot
-![Desktop]()
+![Desktop](./desktop-form.png)
 
 ## What I learned
 * how to use Angular
