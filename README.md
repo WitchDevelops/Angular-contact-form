@@ -1,6 +1,6 @@
 # Contact form
 ## About the project
-It's a contact form build with Angular. I made it as a learning project. 
+It's a contact form build with Angular. I coded it as a learning project. 
 
 ## Features
 * fully responsive design
@@ -12,5 +12,14 @@ It's a contact form build with Angular. I made it as a learning project.
 ## Link
 [https://witchdevelops.github.io/Angular-contact-form/](https://witchdevelops.github.io/Angular-contact-form/)
 
-## To-do
-Figure out how to catch user input, store it locally and send to an email or a spreadsheet (will it require learning PHP?).
+## Screenshot
+![Desktop]()
+
+## What I learned
+* how to use Angular
+* how to dispplay two divs next to each other or one on top of the other, depending on the screen size
+
+## What I would do differently if I had to redo it
+* added client-size form validation with JS, to highligh field with invalid input
+* added animation to input fields
+* figured out how to catch user input, store it locally and send to an email or a spreadsheet (will it require learning PHP?).
